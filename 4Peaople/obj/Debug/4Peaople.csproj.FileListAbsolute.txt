@@ -1,0 +1,10 @@
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\4Peaople.csprojAssemblyReference.cache
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\_4Peaople.Form1.resources
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\_4Peaople.Properties.Resources.resources
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\4Peaople.csproj.GenerateResource.cache
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\4Peaople.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\bin\Debug\4Peaople.exe.config
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\bin\Debug\4Peaople.exe
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\bin\Debug\4Peaople.pdb
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\4Peaople.exe
+C:\Users\Yaroslav\source\repos\4Peaople\4Peaople\obj\Debug\4Peaople.pdb
